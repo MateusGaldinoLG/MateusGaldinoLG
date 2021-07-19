@@ -96,6 +96,8 @@ I am Mateus Galdino, programming student from Recife, Brazil. My focus is learn 
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=vue-weather-app)](https://github.com/MateusGaldinoLG/vue-weather-app)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=aphorisme)](https://github.com/MateusGaldinoLG/aphorisme)
+
 [see my proto-blog here](https://mateusgaldinolg.github.io/MateusGaldino/)
 
 ### Stats
