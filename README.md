@@ -8,7 +8,7 @@ I am Mateus Galdino, programming student from Recife, Brazil. My focus is learn 
 
 ### ✨ Main Languages and tools
 
-<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML/HTML5">
+<a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML">
     <img
       src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg"
       alt="html"
