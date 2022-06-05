@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-Sou Mateus Galdino, estudante de programação recifense. Meu foco atual é o aprendizado de programação e criação de projetos e meus estudos são principalmente em Java e JavaScript, adquirindo conhecimentos em Front end e Back end com ambos.  
+Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE. Meus projetos atuais são voltados para as linguagens de JavaScript e python, mas também tenho familiaridade com C, C++ e Java.
 
-I am Mateus Galdino, programming student from Recife, Brazil. My focus is learn programming and create projects and my current studies are primarily in Java and JavaScript, acquiring front end and back end knowledge with both.
+I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current projects are aimed toward JavaScript and Python, but i also have familiarity with C, C++ and Java.
 
-- 🌱 Learning more about **Vuejs**, **Spring boot** and **Typescript**
+- 🌱 Learning more about **Vuejs**, **C++**, **Scala** and **Typescript**
 
 ### ✨ Main Languages and tools
 
@@ -63,32 +63,7 @@ I am Mateus Galdino, programming student from Recife, Brazil. My focus is learn 
       height="40"
     />
   </a> 
-  
-  <a href="https://www.java.com/pt-BR/t">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"
-      alt="java"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-  
-  <a href="https://spring.io/projects/spring-boot">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg"
-      alt="spring boot"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  
-  
-  
-  
-  
+
 
 ### Main projects (on progress):
 
