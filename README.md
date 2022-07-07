@@ -71,9 +71,11 @@ I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current pr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=DungeonBot)](https://github.com/MateusGaldinoLG/Dungeonbot)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=vue-weather-app)](https://github.com/MateusGaldinoLG/vue-weather-app)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=aphorisme)](https://github.com/MateusGaldinoLG/aphorisme)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=alexandria)](https://github.com/MateusGaldinoLG/alexandria)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=rosalind-bioinfo-solutions)](https://github.com/MateusGaldinoLG/Rosalind-Bioinfo-solutions)
 
 ### Stats
 
