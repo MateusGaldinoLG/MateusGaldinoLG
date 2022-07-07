@@ -4,7 +4,9 @@ Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE. Meus projet
 
 I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current projects are aimed toward JavaScript and Python, but i also have familiarity with C, C++ and Java.
 
-- 🌱 Learning more about **Vuejs**, **C++**, **Scala** and **Typescript**
+- 🌱 Learning more about **TypeScript**, **C++**, **Haskell** and more.
+
+[Portfolio (on progress 🌱)](https://mateusgaldinolg.github.io/MateusGaldino/)
 
 ### ✨ Main Languages and tools
 
@@ -65,15 +67,13 @@ I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current pr
   </a> 
 
 
-### Main projects (on progress):
+### Projects (on progress):
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=DungeonBot)](https://github.com/MateusGaldinoLG/Dungeonbot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=vue-weather-app)](https://github.com/MateusGaldinoLG/vue-weather-app)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=aphorisme)](https://github.com/MateusGaldinoLG/aphorisme)
-
-[see my proto-blog here](https://mateusgaldinolg.github.io/MateusGaldino/)
 
 ### Stats
 
