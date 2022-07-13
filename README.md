@@ -79,7 +79,7 @@ I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current pr
 
 ### Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGaldinoLG&hide=CSS,Jupyter%20Notebook&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGaldinoLG&hide=CSS,Jupyter%20Notebook,HTML&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
