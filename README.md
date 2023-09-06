@@ -1,12 +1,10 @@
 ### Hello there 👋
 
-Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE. Meus projetos atuais são voltados para as linguagens de JavaScript e python, mas também tenho familiaridade com C, C++ e Java.
+Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE (5/10). Meus projetos atuais são voltados para as linguagens de JavaScript e python, mas também tenho familiaridade com C, C++ e Java.
 
 I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current projects are aimed toward JavaScript and Python, but i also have familiarity with C, C++ and Java.
 
 - 🌱 Learning more about **TypeScript**, **C++**, **Haskell** and more.
-
-[Portfolio (on progress 🌱)](https://mateusgaldinolg.github.io/MateusGaldino/)
 
 ### ✨ Main Languages and tools
 
