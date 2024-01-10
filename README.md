@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE (5/10). Meus projetos atuais são voltados para as linguagens de JavaScript e python, mas também tenho familiaridade com C, C++ e Java.
+Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE (6/10). Meus projetos atuais são voltados para as linguagens de JavaScript/Typescript e python, mas também tenho familiaridade com outras linguagens como C, C++ e Java.
 
 I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current projects are aimed toward JavaScript and Python, but i also have familiarity with C, C++ and Java.
 
-- 🌱 Learning more about **TypeScript**, **C++**, **Haskell** and more.
+- 🌱 Learning more about functional programming and proofs: **Agda**, **Coq** (**Rocq**), **Haskell** and more.
 
 ### ✨ Main Languages and tools
 
@@ -43,37 +43,22 @@ I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current pr
       height="40"
     />
   </a>
-  
-  
-  
-  <a href="https://vuejs.org/">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg"
-      alt="vuejs"
-      width="40"
-      height="40"
-    />
-  </a>
-  
-  <a href="https://www.postgresql.org">
-    <img
-      src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg"
-      alt="postgresql"
-      width="40"
-      height="40"
-    />
-  </a> 
 
 
 ### Projects (on progress):
+
+Meus primeiros projetos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=DungeonBot)](https://github.com/MateusGaldinoLG/Dungeonbot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=aphorisme)](https://github.com/MateusGaldinoLG/aphorisme)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=alexandria)](https://github.com/MateusGaldinoLG/alexandria)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=rosalind-bioinfo-solutions)](https://github.com/MateusGaldinoLG/Rosalind-Bioinfo-solutions)
+
+Projetos atuais:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=notasTT)](https://github.com/MateusGaldinoLG/notasTT)
+
 
 ### Stats
 
