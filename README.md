@@ -55,6 +55,11 @@ Meus primeiros projetos:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=rosalind-bioinfo-solutions)](https://github.com/MateusGaldinoLG/Rosalind-Bioinfo-solutions)
 
+Projetos da universidade:
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=hotel-trancinvania)](https://github.com/MateusGaldinoLG/hotel-trancinvania)
+
+
 Projetos atuais:
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=notasTT)](https://github.com/MateusGaldinoLG/notasTT)
