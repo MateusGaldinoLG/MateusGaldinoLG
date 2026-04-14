@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE (6/10). Meus projetos atuais são voltados para as linguagens de JavaScript/Typescript e python, mas também tenho familiaridade com outras linguagens como C, C++ e Java.
+Sou Mateus Galdino, estudante de Engenharia da Computação da UFPE. Meus projetos atuais são voltados para as linguagens de JavaScript/Typescript e Python, mas também tenho familiaridade com outras linguagens como C, C++ e C#.
 
-I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current projects are aimed toward JavaScript and Python, but i also have familiarity with C, C++ and Java.
+I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current projects are aimed toward JavaScript/Typescript and Python, but i also have familiarity with C, C++ and C#.
 
-- 🌱 Learning more about functional programming and proofs: **Agda**, **Coq** (**Rocq**), **Haskell** and more.
+- 🌱 Learning more about functional programming and proofs: **Agda**, **Rocq**, **Haskell**, and more.
 
 ### ✨ Main Languages and tools
 
@@ -43,31 +43,6 @@ I am Mateus Galdino, Computer Engineering student at UFPE, Brazil. My current pr
       height="40"
     />
   </a>
-
-
-### Projects (on progress):
-
-Meus primeiros projetos:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=DungeonBot)](https://github.com/MateusGaldinoLG/Dungeonbot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=aphorisme)](https://github.com/MateusGaldinoLG/aphorisme)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=rosalind-bioinfo-solutions)](https://github.com/MateusGaldinoLG/Rosalind-Bioinfo-solutions)
-
-Projetos da universidade:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=hotel-trancinvania)](https://github.com/MateusGaldinoLG/hotel-trancinvania)
-
-
-Projetos atuais:
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=MateusGaldinoLG&repo=notasTT)](https://github.com/MateusGaldinoLG/notasTT)
-
-
-### Stats
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MateusGaldinoLG&hide=CSS,Jupyter%20Notebook,HTML&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
